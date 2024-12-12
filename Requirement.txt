@@ -1,0 +1,1 @@
+streamlit run "D:/python projects/USE-CASES/disease_prediction/main.py"
